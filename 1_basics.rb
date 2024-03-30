@@ -20,3 +20,5 @@ gpa = 9.6 # float
 checked = false # boolean
 flaws = nil # does not have a value
 
+# execute ruby file
+"ruby filename.rb"
