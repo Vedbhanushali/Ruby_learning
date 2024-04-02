@@ -1,5 +1,5 @@
 # Topics covered
-# print, variables, data_types
+# print, variables, data_types, comments
 
 print "Hello world" # does not append next line at end
 puts "Hello puts" # it insert next line
@@ -22,3 +22,15 @@ flaws = nil # does not have a value
 
 # execute ruby file
 "ruby filename.rb"
+
+# comments
+
+# this is single line comment
+
+=begin
+  this 
+  is 
+  multiline
+  comment
+=end
+puts "comment end"
